@@ -1,5 +1,17 @@
 # FPS_PVE
 
+[![license](https://img.shields.io/badge/license-MIT-blue)](https://github.com/WiloMyst/FPS_PVE/blob/master/LICENSE) [![GitHub repo size](https://img.shields.io/github/repo-size/WiloMyst/FPS_PVE)](https://github.com/WiloMyst/FPS_PVE)
+
+
+
+## 演示
+
+[Video01.mp4](assets/Video01.mp4)
+
+
+
+## 概述
+
 主题为红蓝阵营对抗。Finished on 2024.04.
 
 
@@ -31,11 +43,3 @@
 
 
 
-
-------
-
-## LICENSE
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-© 2024 WiloMyst
